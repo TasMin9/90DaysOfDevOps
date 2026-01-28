@@ -1,4 +1,4 @@
-root@TWS-BATCH-10-SERVER:~# systemctl list-units --type=service
+root@TWS-BATCH-10-SERVER:~# systemctl list-units --type=service 
   UNIT                                           LOAD   ACTIVE SUB     DESCRIPTION                                     >
   apparmor.service                               loaded active exited  Load AppArmor profiles
   apport.service                                 loaded active exited  automatic crash report generation
